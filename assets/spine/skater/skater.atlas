@@ -1,0 +1,202 @@
+
+skater-hape-2.png
+size: 386, 522
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+back-ear
+  rotate: false
+  xy: 281, 122
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+back-hand-1
+  rotate: true
+  xy: 2, 247
+  size: 41, 133
+  orig: 41, 133
+  offset: 0, 0
+  index: -1
+back-hand-2
+  rotate: true
+  xy: 130, 2
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+back-leg
+  rotate: false
+  xy: 185, 56
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+back-pant
+  rotate: true
+  xy: 2, 161
+  size: 76, 281
+  orig: 76, 281
+  offset: 0, 0
+  index: -1
+back-shoe
+  rotate: true
+  xy: 54, 59
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+back-shoulder
+  rotate: false
+  xy: 223, 83
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+board
+  rotate: true
+  xy: 316, 226
+  size: 294, 62
+  orig: 294, 62
+  offset: 0, 0
+  index: -1
+cloth
+  rotate: true
+  xy: 2, 413
+  size: 107, 232
+  orig: 107, 232
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 2, 290
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+front-2-leg-1
+  rotate: false
+  xy: 315, 10
+  size: 69, 214
+  orig: 69, 214
+  offset: 0, 0
+  index: -1
+front-2-leg-2
+  rotate: true
+  xy: 105, 294
+  size: 117, 91
+  orig: 117, 91
+  offset: 0, 0
+  index: -1
+front-ear
+  rotate: false
+  xy: 198, 327
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+front-hand-1
+  rotate: true
+  xy: 137, 253
+  size: 39, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+front-hand-2
+  rotate: true
+  xy: 2, 2
+  size: 38, 126
+  orig: 38, 126
+  offset: 0, 0
+  index: -1
+front-leg
+  rotate: false
+  xy: 198, 366
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+front-pant
+  rotate: false
+  xy: 236, 239
+  size: 78, 281
+  orig: 78, 281
+  offset: 0, 0
+  index: -1
+front-shoe
+  rotate: true
+  xy: 2, 42
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+front-shoulder
+  rotate: true
+  xy: 107, 43
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 130, 100
+  size: 91, 59
+  orig: 91, 59
+  offset: 0, 0
+  index: -1
+neck
+  rotate: false
+  xy: 281, 88
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shoe-2
+  rotate: false
+  xy: 217, 3
+  size: 62, 78
+  orig: 62, 78
+  offset: 0, 0
+  index: -1
+truck-l
+  rotate: false
+  xy: 285, 212
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+truck-r
+  rotate: false
+  xy: 285, 185
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+wheel-lb
+  rotate: false
+  xy: 285, 157
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+wheel-rb
+  rotate: false
+  xy: 285, 157
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+wheel-lf
+  rotate: false
+  xy: 198, 299
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+wheel-rf
+  rotate: false
+  xy: 198, 299
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
