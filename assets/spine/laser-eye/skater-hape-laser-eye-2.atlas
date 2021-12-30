@@ -1,0 +1,265 @@
+
+skater-hape-laser-eye-2.png
+size: 1353, 380
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+SB-2
+  rotate: false
+  xy: 708, 3
+  size: 284, 79
+  orig: 285, 79
+  offset: 1, 0
+  index: -1
+SB-3
+  rotate: true
+  xy: 799, 95
+  size: 283, 77
+  orig: 285, 78
+  offset: 1, 0
+  index: -1
+SB-4
+  rotate: true
+  xy: 712, 87
+  size: 291, 85
+  orig: 292, 85
+  offset: 0, 0
+  index: -1
+back-ear
+  rotate: true
+  xy: 1064, 346
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+back-hand-1
+  rotate: false
+  xy: 994, 4
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+back-hand-2
+  rotate: true
+  xy: 1195, 335
+  size: 43, 127
+  orig: 43, 127
+  offset: 0, 0
+  index: -1
+back-pant
+  rotate: false
+  xy: 571, 71
+  size: 75, 307
+  orig: 75, 307
+  offset: 0, 0
+  index: -1
+back-shoe
+  rotate: true
+  xy: 1064, 158
+  size: 100, 51
+  orig: 100, 51
+  offset: 0, 0
+  index: -1
+back-shoulder
+  rotate: true
+  xy: 917, 88
+  size: 56, 76
+  orig: 56, 76
+  offset: 0, 0
+  index: -1
+board
+  rotate: true
+  xy: 648, 84
+  size: 294, 62
+  orig: 294, 62
+  offset: 0, 0
+  index: -1
+bp2-down
+  rotate: false
+  xy: 987, 158
+  size: 75, 220
+  orig: 76, 221
+  offset: 1, 1
+  index: -1
+bp2-up
+  rotate: false
+  xy: 1267, 29
+  size: 76, 160
+  orig: 77, 160
+  offset: 1, 0
+  index: -1
+cloth
+  rotate: false
+  xy: 878, 146
+  size: 107, 232
+  orig: 107, 232
+  offset: 0, 0
+  index: -1
+e-in
+  rotate: false
+  xy: 799, 84
+  size: 59, 9
+  orig: 62, 13
+  offset: 1, 3
+  index: -1
+e1
+  rotate: false
+  xy: 491, 3
+  size: 103, 60
+  orig: 120, 71
+  offset: 9, 6
+  index: -1
+e2
+  rotate: false
+  xy: 491, 3
+  size: 103, 60
+  orig: 120, 71
+  offset: 9, 6
+  index: -1
+e3
+  rotate: false
+  xy: 491, 3
+  size: 103, 60
+  orig: 120, 71
+  offset: 9, 6
+  index: -1
+f-hand-1
+  rotate: true
+  xy: 1102, 339
+  size: 39, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+f-hand-2
+  rotate: true
+  xy: 1195, 294
+  size: 39, 126
+  orig: 39, 126
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1195, 191
+  size: 101, 121
+  orig: 101, 121
+  offset: 0, 0
+  index: -1
+fp2-down
+  rotate: false
+  xy: 1195, 3
+  size: 70, 186
+  orig: 76, 221
+  offset: 6, 0
+  index: -1
+fp2-up
+  rotate: true
+  xy: 1033, 9
+  size: 77, 160
+  orig: 77, 160
+  offset: 0, 0
+  index: -1
+front-ear
+  rotate: true
+  xy: 878, 108
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+front-pant
+  rotate: false
+  xy: 491, 65
+  size: 78, 313
+  orig: 78, 313
+  offset: 0, 0
+  index: -1
+front-shoe
+  rotate: false
+  xy: 1064, 260
+  size: 117, 50
+  orig: 117, 50
+  offset: 0, 0
+  index: -1
+front-shoulder
+  rotate: true
+  xy: 1117, 203
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 675, 2
+  size: 80, 31
+  orig: 81, 31
+  offset: 1, 0
+  index: -1
+hat2
+  rotate: false
+  xy: 995, 88
+  size: 105, 68
+  orig: 105, 69
+  offset: 0, 1
+  index: -1
+laser
+  rotate: false
+  xy: 860, 86
+  size: 55, 7
+  orig: 56, 9
+  offset: 0, 1
+  index: -1
+neck
+  rotate: false
+  xy: 1064, 312
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+shoe-2-b
+  rotate: true
+  xy: 1117, 147
+  size: 54, 76
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+shoe-2-f
+  rotate: true
+  xy: 596, 6
+  size: 63, 77
+  orig: 64, 77
+  offset: 1, 0
+  index: -1
+truck-l
+  rotate: false
+  xy: 1323, 291
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+truck-r
+  rotate: false
+  xy: 1318, 264
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+vfx
+  rotate: true
+  xy: 2, 2
+  size: 376, 487
+  orig: 408, 524
+  offset: 21, 24
+  index: -1
+wheel-l
+  rotate: false
+  xy: 1324, 349
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+wheel-r
+  rotate: false
+  xy: 1324, 318
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
